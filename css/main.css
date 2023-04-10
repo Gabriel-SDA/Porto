@@ -1,1 +1,18 @@
+.center{
+    text-align:center;
+}
 
+.ajuste{
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.ajuster{
+    margin-left: 5%;
+    border: 2px solid black;
+}
+
+.exemplo-back{
+    height: 300px;
+    background-color: black;
+    background-image:url("/seguro-bicicleta-porto-seguro.webp");
+}
