@@ -41,6 +41,11 @@ h1{
 li{
     list-style-type: none;
 }
+.imagem3{
+    background-image: url(../campoaberto.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 .imagens{
     background-image: url(../fotopgrupo.jpg);
     background-repeat: no-repeat;
@@ -133,4 +138,11 @@ p{
     top: 930px;
     left: 0px;
     font-size: 15px
+}
+.orga{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 100px;
+    left: 430px;
 }
