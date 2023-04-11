@@ -1,3 +1,11 @@
+.home{
+    width:700px;
+    height: 500px;
+    position: absolute;
+    top: 200px;
+    left: 1080px;
+    font-size: 21px;
+}
 .center{
     text-align:center;
 }
